@@ -10,7 +10,7 @@
   5.
   6.
   7.
-  8.
+  8. [Динамическое распределение памяти. Чтение файлов](https://github.com/nevrozza/mai-lab-memory) – реализовать `vector`, распарсить файл и отфильтровать данные
   9. [Типы данных. Сортировки](https://github.com/nevrozza/mai-lab-stacks-merge) – написать `stack` и `merge sort`
     
 **Python**
