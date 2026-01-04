@@ -9,6 +9,7 @@
   > Дальше идут работы на `C`
   5. [Представление чисел в компьютере](https://github.com/nevrozza/mai-lab-bits) – проверка битов (double & negative int) на палиндромию
   6. [Функции в качестве параметров](https://github.com/nevrozza/mai-lab-equations) – поиск корней двух уравнений (+ 2 способа подсчёта производной)
+  - [Этапы сборки и работа с дебаггером](https://github.com/nevrozza/mai-lab-c-build) – сделать по 2 ошибки на каждом этапе сборки, освоить работу с gdb/lldb
   7. 
   8. [Динамическое распределение памяти. Чтение файлов](https://github.com/nevrozza/mai-lab-memory) – реализовать `vector`, распарсить файл и отфильтровать данные
   9. [Типы данных. Сортировки](https://github.com/nevrozza/mai-lab-stacks-merge) – написать `stack` и `merge sort`
