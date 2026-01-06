@@ -1,0 +1,81 @@
+aX->Xb
+bX->Xc
+cX->Xd
+dX->Xe
+eX->Xf
+fX->Xg
+gX->Xh
+hX->Xi
+iX->Xj
+jX->Xk
+kX->Xl
+lX->Xm
+mX->Xn
+nX->Xo
+oX->Xp
+pX->Xq
+qX->Xr
+rX->Xs
+sX->Xt
+tX->Xu
+uX->Xv
+vX->Xw
+wX->Xx
+xX->Xy
+yX->Xz
+zX->Xa
+
+
+
+#0 -> #
+#->
+
+ <0 -> #
+
+1! -> 0<XF
+0! -> 0<F
+0< -> <0
+1< -> 0>
+>0 -> 1>
+
+0> -> 0<X
+1> -> 1<X
+
+[0 -> 0[
+[1 -> 1[
+1[ -> 1!
+0[ -> 0!
+1 -> [1
+0 -> [0
+
+F -> ]
+X] -> ]
+a]->]a
+b]->]b
+c]->]c
+d]->]d
+e]->]e
+f]->]f
+g]->]g
+h]->]h
+i]->]i
+j]->]j
+k]->]k
+l]->]l
+m]->]m
+n]->]n
+o]->]o
+p]->]p
+q]->]q
+r]->]r
+s]->]s
+t]->]t
+u]->]u
+v]->]v
+w]->]w
+x]->]x
+y]->]y
+z]->]z
+
+
+]->.
